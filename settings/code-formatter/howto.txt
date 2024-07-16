@@ -1,0 +1,1 @@
+Please go through this github page for how to use the formatters: https://github.com/HPI-Information-Systems/Metanome/wiki/Installing-the-google-styleguide-settings-in-intellij-and-eclipse
